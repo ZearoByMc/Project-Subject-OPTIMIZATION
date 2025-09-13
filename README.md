@@ -1,2 +1,2 @@
 # Project-Subject-OPTIMIZATION
-For Learning 
+For Learning Group Sine-Cosine
